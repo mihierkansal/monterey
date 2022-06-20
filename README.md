@@ -11,3 +11,4 @@ Step 5: In the window that pops up, click "Filesystem root", then click "usr", t
 Step 6: copy the extracted folder called "MacOS Monterey Light", then paste it into the the "themes" folder in the other window.
 Step 7: right click an empty space in Plank, then click preferences. 
 Step 8: Select the theme as "MacOS Monterey Light", and Voila!
+NOTE this will not work with windows or Mac. This only works with Linux
